@@ -21,7 +21,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </head>
 <body>
-<nav class="navbar navbar-expand-md navbar-dark bg-dark mb-3">ƒ
+<nav class="navbar navbar-expand-md navbar-dark bg-dark mb-3">
     <div class="container-fluid">
         <a href="#" class="navbar-brand mr-3">London South Bank University</a>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
