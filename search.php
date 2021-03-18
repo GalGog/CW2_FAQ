@@ -54,7 +54,7 @@
 <footer>
             <div class="row">
                 <div class="col-md-6">
-                    <p>CW2 Halyna Podyman &copy; 2021</p>
+                    <p>Halyna Podyman &copy; 2021</p>
                 </div>
                 <div class="col-md-6 text-md-right">
                     <a href="terms&cond.html" class="text-dark">Terms of Use</a>
